@@ -1,0 +1,16 @@
+#pai{
+background-color: rgb(90, 86, 86);
+display: flex;
+flex-direction: row; /* row, column, row-reverse, column-reverse */
+height: 300px;
+justify-content: space-around;
+flex-wrap: wrap;
+align-items: center;
+}
+
+.Filho{
+background-color: rgb(147, 97, 186);
+width: 50px;
+height: 50px;
+margin: 5px;
+}
